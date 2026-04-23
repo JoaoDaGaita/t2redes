@@ -53,5 +53,5 @@ A Memory Management Unit (MMU) é o componente de hardware responsável por trad
 | _encontrar_pagina_por_frame(frame_busca) | Varre tabela de páginas para descobrir qual página está ocupando um determinado frame |
 | mostrar_status() | Exibe tabela de páginas, frames em uso/livres, estatísticas de page fault |
 
-### 🔄 Fluxo Completo da Tradução de Endereços
-
+## Como executar
+python main.py
